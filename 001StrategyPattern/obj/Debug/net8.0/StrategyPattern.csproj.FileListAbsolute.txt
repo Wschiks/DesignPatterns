@@ -1,0 +1,14 @@
+/Users/wout/Downloads/StrategyPattern/bin/Debug/net8.0/StrategyPattern
+/Users/wout/Downloads/StrategyPattern/bin/Debug/net8.0/StrategyPattern.deps.json
+/Users/wout/Downloads/StrategyPattern/bin/Debug/net8.0/StrategyPattern.runtimeconfig.json
+/Users/wout/Downloads/StrategyPattern/bin/Debug/net8.0/StrategyPattern.dll
+/Users/wout/Downloads/StrategyPattern/bin/Debug/net8.0/StrategyPattern.pdb
+/Users/wout/Downloads/StrategyPattern/obj/Debug/net8.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wout/Downloads/StrategyPattern/obj/Debug/net8.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/wout/Downloads/StrategyPattern/obj/Debug/net8.0/StrategyPattern.AssemblyInfo.cs
+/Users/wout/Downloads/StrategyPattern/obj/Debug/net8.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/wout/Downloads/StrategyPattern/obj/Debug/net8.0/StrategyPattern.dll
+/Users/wout/Downloads/StrategyPattern/obj/Debug/net8.0/refint/StrategyPattern.dll
+/Users/wout/Downloads/StrategyPattern/obj/Debug/net8.0/StrategyPattern.pdb
+/Users/wout/Downloads/StrategyPattern/obj/Debug/net8.0/StrategyPattern.genruntimeconfig.cache
+/Users/wout/Downloads/StrategyPattern/obj/Debug/net8.0/ref/StrategyPattern.dll

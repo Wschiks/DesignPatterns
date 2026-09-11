@@ -1,0 +1,14 @@
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/bin/Debug/net10.0/ObserverPattern
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/bin/Debug/net10.0/ObserverPattern.deps.json
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/bin/Debug/net10.0/ObserverPattern.runtimeconfig.json
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/bin/Debug/net10.0/ObserverPattern.dll
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/bin/Debug/net10.0/ObserverPattern.pdb
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/obj/Debug/net10.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/obj/Debug/net10.0/ObserverPattern.AssemblyInfoInputs.cache
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/obj/Debug/net10.0/ObserverPattern.AssemblyInfo.cs
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/obj/Debug/net10.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/obj/Debug/net10.0/ObserverPattern.dll
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/obj/Debug/net10.0/refint/ObserverPattern.dll
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/obj/Debug/net10.0/ObserverPattern.pdb
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/obj/Debug/net10.0/ObserverPattern.genruntimeconfig.cache
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/ObserverPattern/obj/Debug/net10.0/ref/ObserverPattern.dll
