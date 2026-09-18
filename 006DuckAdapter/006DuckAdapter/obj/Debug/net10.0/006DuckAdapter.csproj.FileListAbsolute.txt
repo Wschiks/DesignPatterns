@@ -1,0 +1,15 @@
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/bin/Debug/net10.0/006DuckAdapter
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/bin/Debug/net10.0/006DuckAdapter.deps.json
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/bin/Debug/net10.0/006DuckAdapter.runtimeconfig.json
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/bin/Debug/net10.0/006DuckAdapter.dll
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/bin/Debug/net10.0/006DuckAdapter.pdb
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/obj/Debug/net10.0/006DuckAdapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/obj/Debug/net10.0/006DuckAdapter.AssemblyInfoInputs.cache
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/obj/Debug/net10.0/006DuckAdapter.AssemblyInfo.cs
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/obj/Debug/net10.0/006DuckAdapter.csproj.CoreCompileInputs.cache
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/obj/Debug/net10.0/006DuckAdapter.sourcelink.json
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/obj/Debug/net10.0/006DuckAdapter.dll
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/obj/Debug/net10.0/refint/006DuckAdapter.dll
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/obj/Debug/net10.0/006DuckAdapter.pdb
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/obj/Debug/net10.0/006DuckAdapter.genruntimeconfig.cache
+/Users/wout/Documents/school/Leerjaar4/DesignPatterns/DesignPatterns/006DuckAdapter/006DuckAdapter/obj/Debug/net10.0/ref/006DuckAdapter.dll
