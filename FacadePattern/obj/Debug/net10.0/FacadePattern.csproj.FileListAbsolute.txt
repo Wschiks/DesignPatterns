@@ -1,0 +1,14 @@
+/Users/wout/Downloads/FacadePattern/bin/Debug/net10.0/FacadePattern
+/Users/wout/Downloads/FacadePattern/bin/Debug/net10.0/FacadePattern.deps.json
+/Users/wout/Downloads/FacadePattern/bin/Debug/net10.0/FacadePattern.runtimeconfig.json
+/Users/wout/Downloads/FacadePattern/bin/Debug/net10.0/FacadePattern.dll
+/Users/wout/Downloads/FacadePattern/bin/Debug/net10.0/FacadePattern.pdb
+/Users/wout/Downloads/FacadePattern/obj/Debug/net10.0/FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wout/Downloads/FacadePattern/obj/Debug/net10.0/FacadePattern.AssemblyInfoInputs.cache
+/Users/wout/Downloads/FacadePattern/obj/Debug/net10.0/FacadePattern.AssemblyInfo.cs
+/Users/wout/Downloads/FacadePattern/obj/Debug/net10.0/FacadePattern.csproj.CoreCompileInputs.cache
+/Users/wout/Downloads/FacadePattern/obj/Debug/net10.0/FacadePattern.dll
+/Users/wout/Downloads/FacadePattern/obj/Debug/net10.0/refint/FacadePattern.dll
+/Users/wout/Downloads/FacadePattern/obj/Debug/net10.0/FacadePattern.pdb
+/Users/wout/Downloads/FacadePattern/obj/Debug/net10.0/FacadePattern.genruntimeconfig.cache
+/Users/wout/Downloads/FacadePattern/obj/Debug/net10.0/ref/FacadePattern.dll
