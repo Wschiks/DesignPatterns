@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("006DuckAdapter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76cbd77b0e5bed49d5ad36460866cd8081843ee6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7053c4495425c101243c35701e893cf301af6feb")]
 [assembly: System.Reflection.AssemblyProductAttribute("006DuckAdapter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("006DuckAdapter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
