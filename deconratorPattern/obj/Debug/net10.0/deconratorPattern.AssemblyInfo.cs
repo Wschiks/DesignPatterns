@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("deconratorPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0cf2a99b0867235377a304dbfbd1d19a623984f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ba3514706fcc4ba9ebd9376fc0612b10d3d24bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("deconratorPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("deconratorPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
